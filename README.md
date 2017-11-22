@@ -61,4 +61,4 @@ Please post your discussion on github [issues][issues].
 [wiki]:https://github.com/ksvc/UnionMobileStreaming_iOS/wiki
 [issues]:https://github.com/ksvc/UnionMobileStreaming_iOS/issues
 
-> Power by 金山云 [UnionMobileStreaming_iOS@ksvc Github]https://github.com/ksvc/UnionMobileStreaming_iOS
+> Power by 金山云 [UnionMobileStreaming_iOS@ksvc Github](https://github.com/ksvc/UnionMobileStreaming_iOS)
