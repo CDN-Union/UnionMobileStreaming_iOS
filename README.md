@@ -60,3 +60,5 @@ Please post your discussion on github [issues][issues].
 [license]:https://github.com/ksvc/UnionMobileStreaming_iOS/blob/master/LICENSE
 [wiki]:https://github.com/ksvc/UnionMobileStreaming_iOS/wiki
 [issues]:https://github.com/ksvc/UnionMobileStreaming_iOS/issues
+
+> Power by 金山云 [UnionMobileStreaming_iOS@ksvc Github]https://github.com/ksvc/UnionMobileStreaming_iOS
